@@ -1,0 +1,10 @@
+export { default as HeroIconCheck } from "./HeroIconCheck.vue";
+export { default as HeroIconChevronLeft } from "./HeroIconChevronLeft.vue";
+export { default as HeroIconChevronDoubleLeft } from "./HeroIconChevronDoubleLeft.vue";
+export { default as HeroIconChevronRight } from "./HeroIconChevronRight.vue";
+export { default as HeroIconChevronDoubleRight } from "./HeroIconChevronDoubleRight.vue";
+export { default as HeroIconPencil } from "./HeroIconPencil.vue";
+export { default as HeroIconSearch } from "./HeroIconSearch.vue";
+export { default as HeroIconTrash } from "./HeroIconTrash.vue";
+export { default as HeroIconX } from "./HeroIconX.vue";  
+export { default as HeroIconMinus } from "./HeroIconMinus.vue";  
